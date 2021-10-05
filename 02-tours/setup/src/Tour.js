@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 class Tour extends React.Component {
   render() {
